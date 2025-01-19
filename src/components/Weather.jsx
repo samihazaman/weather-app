@@ -9,7 +9,6 @@ import snow_icon from '../assets/snow.png'
 import wind_icon from '../assets/wind.png'
 import humidity_icon from '../assets/humidity.png'
 
-//testing
 
 const Weather = () => {
   
